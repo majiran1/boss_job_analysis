@@ -1,6 +1,6 @@
 # boss_job_analysis项目说明
 
-code以及分析步骤以及结果见"job_analysis.ipynb"
+code以及**分析步骤**以及**结论**见"job_analysis.ipynb"
 
 原始data在“boss.csv”
 
